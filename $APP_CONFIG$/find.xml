@@ -1,0 +1,21 @@
+<application>
+  <component name="FindSettings">
+    <option name="customScope" value="File '/Users/bob/Dropbox/SyncedSites/vhosts/www.br.dev/user/plugins/categorymenu/categorymenu.php'" />
+    <option name="defaultScopeName" value="File '/Users/bob/Dropbox/SyncedSites/vhosts/www.br.dev/user/plugins/categorymenu/categorymenu.php'" />
+    <option name="SEARCH_SCOPE" value="File '/Users/bob/Dropbox/SyncedSites/vhosts/www.br.dev/user/plugins/categorymenu/categorymenu.php'" />
+    <option name="FILE_MASK" value="*.md" />
+    <recentFileMasks>
+      <mask>*.properties</mask>
+      <mask>*.html</mask>
+      <mask>*.jsp</mask>
+      <mask>*.xml</mask>
+      <mask>*.java</mask>
+      <mask>*.js</mask>
+      <mask>*.as</mask>
+      <mask>*.css</mask>
+      <mask>*.mxml</mask>
+      <mask>*.php</mask>
+      <mask>*.md</mask>
+    </recentFileMasks>
+  </component>
+</application>

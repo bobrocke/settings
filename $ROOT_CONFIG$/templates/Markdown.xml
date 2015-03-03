@@ -1,0 +1,63 @@
+<templateSet group="Markdown">
+  <template name="ai" value="![$app$ Icon](/images/icons/$filename$.$extension$){.image-right .image-25}" description="Uncaptioned App Icon (right 25%)" toReformat="false" toShortenFQNames="true">
+    <variable name="app" expression="" defaultValue="&quot;App&quot;" alwaysStopAt="true" />
+    <variable name="filename" expression="" defaultValue="&quot;filename&quot;" alwaysStopAt="true" />
+    <variable name="extension" expression="" defaultValue="&quot;extension&quot;" alwaysStopAt="true" />
+    <context>
+      <option name="HTML_TEXT" value="false" />
+      <option name="HTML" value="false" />
+      <option name="XSL_TEXT" value="false" />
+      <option name="XML" value="false" />
+      <option name="XML_TEXT" value="false" />
+      <option name="JSON" value="false" />
+      <option name="SQL" value="false" />
+      <option name="JSP" value="false" />
+      <option name="CSS_PROPERTY_VALUE" value="false" />
+      <option name="CSS_DECLARATION_BLOCK" value="false" />
+      <option name="CSS_RULESET_LIST" value="false" />
+      <option name="CSS" value="false" />
+      <option name="JAVA_SCRIPT" value="false" />
+      <option name="JS_EXPRESSION" value="false" />
+      <option name="JS_STATEMENT" value="false" />
+      <option name="TypeScript" value="false" />
+      <option name="CoffeeScript" value="false" />
+      <option name="PHP" value="false" />
+      <option name="PHP Comment" value="false" />
+      <option name="PHP String Literal" value="false" />
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+  <template name="bi" value="![$alt_text$]($filename$.$extension$){.image-right .image-25}" description="Uncaptioned Blog Image (right 25%)" toReformat="false" toShortenFQNames="true">
+    <variable name="alt_text" expression="" defaultValue="&quot;Alt Text&quot;" alwaysStopAt="true" />
+    <variable name="filename" expression="" defaultValue="&quot;filename&quot;" alwaysStopAt="true" />
+    <variable name="extension" expression="" defaultValue="&quot;extension&quot;" alwaysStopAt="true" />
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+  <template name="ci" value="![$alt_text$]($filename$.$extension$ &quot;$caption_text$&quot;){.caption .image-center .image-80}" description="Captioned Image (center 80%)" toReformat="false" toShortenFQNames="true">
+    <variable name="alt_text" expression="" defaultValue="&quot;Alt Text&quot;" alwaysStopAt="true" />
+    <variable name="filename" expression="" defaultValue="&quot;filename&quot;" alwaysStopAt="true" />
+    <variable name="extension" expression="" defaultValue="&quot;extension&quot;" alwaysStopAt="true" />
+    <variable name="caption_text" expression="" defaultValue="&quot;Caption Text&quot;" alwaysStopAt="true" />
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+  <template name="li" value="[![$alt_text$]($path$$filename$.$extension$){.image-right .image-25}](http://$address$)" description="Linked Image (right 25%)" toReformat="false" toShortenFQNames="true">
+    <variable name="alt_text" expression="" defaultValue="&quot;Alt Text&quot;" alwaysStopAt="true" />
+    <variable name="path" expression="" defaultValue="&quot;path&quot;" alwaysStopAt="true" />
+    <variable name="filename" expression="" defaultValue="&quot;filename&quot;" alwaysStopAt="true" />
+    <variable name="extension" expression="" defaultValue="&quot;extension&quot;" alwaysStopAt="true" />
+    <variable name="address" expression="" defaultValue="&quot;address&quot;" alwaysStopAt="true" />
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+  <template name="ml" value="[$SELECTION$]($link$)" description="Markdown Link" toReformat="false" toShortenFQNames="true">
+    <variable name="link" expression="clipboard()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+</templateSet>
