@@ -18,5 +18,9 @@
     <keyboard-shortcut first-keystroke="meta alt RIGHT" />
     <mouse-shortcut keystroke="button5" />
   </action>
+  <action id="GotoLine">
+    <keyboard-shortcut first-keystroke="meta L" />
+    <keyboard-shortcut first-keystroke="control L" />
+  </action>
   <action id="ImplementMethods" />
 </keymap>
