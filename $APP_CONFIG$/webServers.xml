@@ -16,5 +16,8 @@
         </fileTransfer>
       </webServer>
     </option>
+    <sftpAdvancedGlobalOptions>
+      <SftpAdvancedOptions />
+    </sftpAdvancedGlobalOptions>
   </component>
 </application>
