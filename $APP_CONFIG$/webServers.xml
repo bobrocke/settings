@@ -8,6 +8,13 @@
           </advancedOptions>
         </fileTransfer>
       </webServer>
+      <webServer id="87c358f5-8917-4ad7-a152-114f84d32f86" name="BR Production" url="http://sftp.bobrockefeller.com">
+        <fileTransfer host="sftp.bobrockefeller.com" port="22" accessType="SFTP" username="bobrocke">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
     </option>
     <sftpAdvancedGlobalOptions>
       <SftpAdvancedOptions />
