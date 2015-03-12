@@ -1,15 +1,22 @@
 <application>
   <component name="WebServers">
     <option name="servers">
-      <webServer id="36be32fb-ccb3-4b79-8d9a-28e6b03fa279" name="Production" url="http://www.bobrockefeller.com">
+      <webServer id="36be32fb-ccb3-4b79-8d9a-28e6b03fa279" name="Materialize Production" url="http://materialize.bobrockefeller.com">
         <fileTransfer host="sftp.bobrockefeller.com" port="22" rootFolder="/home/bobrocke/public_html/materialize.bobrockefeller.com" accessType="SFTP" password="df9bdf9adfe8dfc5dfc8dfc7dfcfdfd9dfd9" username="bobrocke">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" passiveMode="true" />
           </advancedOptions>
         </fileTransfer>
       </webServer>
-      <webServer id="87c358f5-8917-4ad7-a152-114f84d32f86" name="BR Production" url="http://sftp.bobrockefeller.com">
-        <fileTransfer host="sftp.bobrockefeller.com" port="22" accessType="SFTP" username="bobrocke">
+      <webServer id="87c358f5-8917-4ad7-a152-114f84d32f86" name="BR Production" url="http://www.bobrockefeller.com">
+        <fileTransfer host="sftp.bobrockefeller.com" port="22" rootFolder="/home/bobrocke/public_html/bobrockefeller.com" accessType="SFTP" password="df9bdf9adfe8dfc5dfc8dfc7dfcfdfd9dfd9" username="bobrocke">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="9f5d0a8c-d9bf-45f6-991b-2c0c7993d4ad" name="BR Staging" url="http://stage.bobrockefeller.com">
+        <fileTransfer host="sftp.bobrockefeller.com" port="22" rootFolder="/home/bobrocke/public_html/stage.bobrockefeller.com" accessType="SFTP" password="df9bdf9adfe8dfc5dfc8dfc7dfcfdfd9dfd9" username="bobrocke">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
