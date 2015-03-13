@@ -1,0 +1,41 @@
+<keymap version="1" name="Default copy" parent="Mac OS X 10.5+">
+  <action id="Back">
+    <keyboard-shortcut first-keystroke="meta alt LEFT" />
+    <mouse-shortcut keystroke="button4" />
+  </action>
+  <action id="EditorIndentSelection">
+    <keyboard-shortcut first-keystroke="TAB" />
+    <keyboard-shortcut first-keystroke="meta CLOSE_BRACKET" />
+  </action>
+  <action id="EditorToggleShowWhitespaces">
+    <keyboard-shortcut first-keystroke="control I" />
+  </action>
+  <action id="EditorUnindentSelection">
+    <keyboard-shortcut first-keystroke="shift TAB" />
+    <keyboard-shortcut first-keystroke="meta OPEN_BRACKET" />
+  </action>
+  <action id="Forward">
+    <keyboard-shortcut first-keystroke="meta alt RIGHT" />
+    <mouse-shortcut keystroke="button5" />
+  </action>
+  <action id="GotoLine">
+    <keyboard-shortcut first-keystroke="meta L" />
+    <keyboard-shortcut first-keystroke="control L" />
+  </action>
+  <action id="ImplementMethods" />
+  <action id="SwitchApply">
+    <keyboard-shortcut first-keystroke="control alt ENTER" />
+  </action>
+  <action id="SwitchDown">
+    <keyboard-shortcut first-keystroke="control alt DOWN" />
+  </action>
+  <action id="SwitchLeft">
+    <keyboard-shortcut first-keystroke="control alt LEFT" />
+  </action>
+  <action id="SwitchRight">
+    <keyboard-shortcut first-keystroke="control alt RIGHT" />
+  </action>
+  <action id="SwitchUp">
+    <keyboard-shortcut first-keystroke="control alt UP" />
+  </action>
+</keymap>
