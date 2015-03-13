@@ -1,5 +1,5 @@
 <application>
-  <component name="FileTypeManager" version="12">
-    <ignoreFiles list="*.hprof;*.lib;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.bundle;.codekit-cache;.git;.hg;.sass-cache;.svn;CVS;RCS;SCCS;__pycache__;_svn;config.codekit;node_modules;rcs;" />
+  <component name="FileTypeManager" version="13">
+    <ignoreFiles list="*.hprof;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.bundle;.codekit-cache;.git;.hg;.sass-cache;.svn;CVS;RCS;SCCS;__pycache__;_svn;config.codekit;node_modules;rcs;" />
   </component>
 </application>
