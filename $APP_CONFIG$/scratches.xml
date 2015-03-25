@@ -1,7 +1,0 @@
-<application>
-  <component name="ScratchFileService">
-    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/PHP Scratch" value="PHP" />
-    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/SCSS Scratch" value="SCSS" />
-    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/Twig Scratch" value="Twig" />
-  </component>
-</application>
