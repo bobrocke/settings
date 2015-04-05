@@ -11,4 +11,16 @@
       <option name="CSS" value="true" />
     </context>
   </template>
+  <template name="pa" value="padding: $top$em $right$em $bottom$em $left$em;" description="Padding: t r b l" toReformat="false" toShortenFQNames="true">
+    <variable name="top" expression="" defaultValue="&quot;Top&quot;" alwaysStopAt="true" />
+    <variable name="right" expression="" defaultValue="&quot;Right&quot;" alwaysStopAt="true" />
+    <variable name="bottom" expression="" defaultValue="&quot;Bottom&quot;" alwaysStopAt="true" />
+    <variable name="left" expression="" defaultValue="&quot;Left&quot;" alwaysStopAt="true" />
+    <context>
+      <option name="CSS_PROPERTY_VALUE" value="true" />
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+      <option name="CSS_RULESET_LIST" value="true" />
+      <option name="CSS" value="true" />
+    </context>
+  </template>
 </templateSet>
