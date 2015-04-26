@@ -9,7 +9,7 @@
         </fileTransfer>
       </webServer>
       <webServer id="36be32fb-ccb3-4b79-8d9a-28e6b03fa279" name="Production" url="http://www.bobrockefeller.com">
-        <fileTransfer host="sftp.bobrockefeller.com" port="22" rootFolder="/home/bobrocke/public_html/materialize.bobrockefeller.com" accessType="SFTP" password="df9bdf9adfe8dfc5dfc8dfc7dfcfdfd9dfd9" username="bobrocke">
+        <fileTransfer host="sftp.bobrockefeller.com" port="22" rootFolder="/home/bobrocke/public_html/" accessType="SFTP" password="df9bdf9adfe8dfc5dfc8dfc7dfcfdfd9dfd9" username="bobrocke">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" passiveMode="true" />
           </advancedOptions>
