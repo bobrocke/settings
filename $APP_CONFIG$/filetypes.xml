@@ -1,5 +1,9 @@
 <application>
   <component name="FileTypeManager" version="14">
-    <ignoreFiles list="*.hprof;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.bundle;.codekit-cache;.git;.hg;.sass-cache;.svn;.tox;CVS;RCS;SCCS;__pycache__;_svn;config.codekit;node_modules;rcs;" />
+    <ignoreFiles list="*.hprof;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.bundle;.codekit-cache;.git;.hg;.sass-cache;.svn;.tox;CVS;RCS;SCCS;__pycache__;_svn;config.codekit;rcs;" />
+    <extensionMap>
+      <mapping ext="sublime-workspace" type="PLAIN_TEXT" />
+      <mapping ext="sublime-project" type="PLAIN_TEXT" />
+    </extensionMap>
   </component>
 </application>

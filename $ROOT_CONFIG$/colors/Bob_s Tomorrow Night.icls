@@ -90,6 +90,18 @@
         <option name="FOREGROUND" value="b5bd68" />
       </value>
     </option>
+    <option name="CONSOLE_GREEN_BRIGHT_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="c5c8c6" />
+        <option name="BACKGROUND" value="1fbc0e" />
+      </value>
+    </option>
+    <option name="CONSOLE_GREEN_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="3dc807" />
+        <option name="BACKGROUND" value="1d1f21" />
+      </value>
+    </option>
     <option name="CONSOLE_MAGENTA_OUTPUT">
       <value>
         <option name="FOREGROUND" value="983498" />
