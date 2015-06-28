@@ -12,6 +12,10 @@
     </value>
   </option>
   <option name="HTML_ALIGN_ATTRIBUTES" value="false" />
+  <CssCodeStyleSettings>
+    <option name="HEX_COLOR_UPPER_CASE" value="true" />
+    <option name="HEX_COLOR_LONG_FORMAT" value="true" />
+  </CssCodeStyleSettings>
   <PHPCodeStyleSettings>
     <option name="INDENT_CODE_IN_PHP_TAGS" value="true" />
   </PHPCodeStyleSettings>
