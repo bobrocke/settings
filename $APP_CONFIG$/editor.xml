@@ -11,7 +11,5 @@
   </component>
   <component name="XmlEditorOptions">
     <option name="breadcrumbsEnabled" value="false" />
-    <option name="showCssColorPreviewInGutter" value="false" />
-    <option name="showCssInlineColorPreview" value="true" />
   </component>
 </application>

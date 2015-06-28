@@ -7,8 +7,11 @@
     <keyboard-shortcut first-keystroke="TAB" />
     <keyboard-shortcut first-keystroke="meta CLOSE_BRACKET" />
   </action>
-  <action id="EditorToggleShowWhitespaces">
+  <action id="EditorToggleShowIndentLines">
     <keyboard-shortcut first-keystroke="control I" />
+  </action>
+  <action id="EditorToggleShowWhitespaces">
+    <keyboard-shortcut first-keystroke="control W" />
   </action>
   <action id="EditorUnindentSelection">
     <keyboard-shortcut first-keystroke="shift TAB" />
