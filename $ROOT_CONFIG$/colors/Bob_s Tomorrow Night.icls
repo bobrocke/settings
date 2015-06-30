@@ -602,6 +602,29 @@
         <option name="FOREGROUND" value="7257a5" />
       </value>
     </option>
+    <option name="MARKDOWN_BOLD">
+      <value>
+        <option name="FOREGROUND" value="bd3918" />
+      </value>
+    </option>
+    <option name="MARKDOWN_EXPLICIT_LINK">
+      <value>
+        <option name="FOREGROUND" value="7d257f" />
+      </value>
+    </option>
+    <option name="MARKDOWN_ITALIC">
+      <value>
+        <option name="FOREGROUND" value="bd3918" />
+        <option name="EFFECT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="MARKDOWN_STRIKE_THROUGH">
+      <value>
+        <option name="FOREGROUND" value="4b4e55" />
+        <option name="EFFECT_COLOR" value="4b4e55" />
+        <option name="EFFECT_TYPE" value="1" />
+      </value>
+    </option>
     <option name="MATCHED_BRACE_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="fa02ff" />
