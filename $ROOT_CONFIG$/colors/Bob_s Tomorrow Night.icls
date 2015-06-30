@@ -618,11 +618,16 @@
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
+    <option name="MARKDOWN_LINK_DEFINITION">
+      <value>
+        <option name="FOREGROUND" value="1ec811" />
+      </value>
+    </option>
     <option name="MARKDOWN_STRIKE_THROUGH">
       <value>
         <option name="FOREGROUND" value="4b4e55" />
         <option name="EFFECT_COLOR" value="4b4e55" />
-        <option name="EFFECT_TYPE" value="1" />
+        <option name="EFFECT_TYPE" value="3" />
       </value>
     </option>
     <option name="MATCHED_BRACE_ATTRIBUTES">
