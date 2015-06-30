@@ -1,7 +1,8 @@
 <scheme name="Bob's Tomorrow Night" version="141" parent_scheme="Default">
   <option name="LINE_SPACING" value="1.0" />
   <option name="EDITOR_FONT_SIZE" value="11" />
-  <option name="EDITOR_FONT_NAME" value="Panic Sans" />
+  <option name="CONSOLE_FONT_NAME" value="Panic Sans" />
+  <option name="EDITOR_FONT_NAME" value="Menlo" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="295622" />
     <option name="CARET_COLOR" value="bbbbbb" />
@@ -559,16 +560,25 @@
     <option name="MARKDOWN.HEADER_LEVEL_3">
       <value>
         <option name="FOREGROUND" value="a8b666" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="MARKDOWN.HEADER_LEVEL_4">
+      <value>
+        <option name="FOREGROUND" value="a8b666" />
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="MARKDOWN.HEADER_LEVEL_5">
       <value>
         <option name="FOREGROUND" value="a8b666" />
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="MARKDOWN.HEADER_LEVEL_6">
       <value>
         <option name="FOREGROUND" value="a8b666" />
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="MARKDOWN.IMAGE">
@@ -590,6 +600,29 @@
     <option name="MARKDOWN.REFERENCE_LINK">
       <value>
         <option name="FOREGROUND" value="7257a5" />
+      </value>
+    </option>
+    <option name="MARKDOWN_BOLD">
+      <value>
+        <option name="FOREGROUND" value="bd3918" />
+      </value>
+    </option>
+    <option name="MARKDOWN_EXPLICIT_LINK">
+      <value>
+        <option name="FOREGROUND" value="9e28a0" />
+      </value>
+    </option>
+    <option name="MARKDOWN_ITALIC">
+      <value>
+        <option name="FOREGROUND" value="bd3918" />
+        <option name="EFFECT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="MARKDOWN_STRIKE_THROUGH">
+      <value>
+        <option name="FOREGROUND" value="4b4e55" />
+        <option name="EFFECT_COLOR" value="4b4e55" />
+        <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
     <option name="MATCHED_BRACE_ATTRIBUTES">
