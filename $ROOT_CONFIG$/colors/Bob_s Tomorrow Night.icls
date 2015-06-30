@@ -1,7 +1,8 @@
 <scheme name="Bob's Tomorrow Night" version="141" parent_scheme="Default">
   <option name="LINE_SPACING" value="1.0" />
   <option name="EDITOR_FONT_SIZE" value="11" />
-  <option name="EDITOR_FONT_NAME" value="Panic Sans" />
+  <option name="CONSOLE_FONT_NAME" value="Panic Sans" />
+  <option name="EDITOR_FONT_NAME" value="Menlo" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="295622" />
     <option name="CARET_COLOR" value="bbbbbb" />
@@ -559,16 +560,25 @@
     <option name="MARKDOWN.HEADER_LEVEL_3">
       <value>
         <option name="FOREGROUND" value="a8b666" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="MARKDOWN.HEADER_LEVEL_4">
+      <value>
+        <option name="FOREGROUND" value="a8b666" />
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="MARKDOWN.HEADER_LEVEL_5">
       <value>
         <option name="FOREGROUND" value="a8b666" />
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="MARKDOWN.HEADER_LEVEL_6">
       <value>
         <option name="FOREGROUND" value="a8b666" />
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="MARKDOWN.IMAGE">
