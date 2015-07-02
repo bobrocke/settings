@@ -3,8 +3,10 @@
     <keyboard-shortcut first-keystroke="meta alt LEFT" />
     <mouse-shortcut keystroke="button4" />
   </action>
+  <action id="EditorIndentLineOrSelection">
+    <keyboard-shortcut first-keystroke="meta CLOSE_BRACKET" />
+  </action>
   <action id="EditorIndentSelection">
-    <keyboard-shortcut first-keystroke="TAB" />
     <keyboard-shortcut first-keystroke="meta CLOSE_BRACKET" />
   </action>
   <action id="EditorToggleShowIndentLines">
@@ -14,7 +16,6 @@
     <keyboard-shortcut first-keystroke="control W" />
   </action>
   <action id="EditorUnindentSelection">
-    <keyboard-shortcut first-keystroke="shift TAB" />
     <keyboard-shortcut first-keystroke="meta OPEN_BRACKET" />
   </action>
   <action id="Forward">

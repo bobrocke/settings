@@ -7,6 +7,9 @@
   <component name="CssFoldingSettings">
     <option name="collapseDataUri" value="false" />
   </component>
+  <component name="DaemonCodeAnalyzerSettings">
+    <option name="ERROR_STRIPE_MARK_MIN_HEIGHT" value="0" />
+  </component>
   <component name="PhpCodeFoldingSettings">
     <option name="COLLAPSE_IMPORTS" value="false" />
   </component>
