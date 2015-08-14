@@ -2,11 +2,11 @@
   <option name="LINE_SPACING" value="1.0" />
   <option name="EDITOR_FONT_SIZE" value="11" />
   <option name="CONSOLE_FONT_NAME" value="Panic Sans" />
-  <option name="EDITOR_FONT_NAME" value="Menlo" />
+  <option name="EDITOR_FONT_NAME" value="Source Code Pro" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="295622" />
     <option name="CARET_COLOR" value="bbbbbb" />
-    <option name="CARET_ROW_COLOR" value="282a2e" />
+    <option name="CARET_ROW_COLOR" value="303236" />
     <option name="CONSOLE_BACKGROUND_KEY" value="1d1f21" />
     <option name="FILESTATUS_ADDED" value="629755" />
     <option name="FILESTATUS_DELETED" value="6c6c6c" />
@@ -435,7 +435,7 @@
       <value>
         <option name="EFFECT_COLOR" value="bc3f3c" />
         <option name="ERROR_STRIPE_COLOR" value="bc3f3c" />
-        <option name="EFFECT_TYPE" value="2" />
+        <option name="EFFECT_TYPE" value="4" />
       </value>
     </option>
     <option name="EXECUTIONPOINT_ATTRIBUTES">
@@ -604,17 +604,19 @@
     </option>
     <option name="MARKDOWN_BOLD">
       <value>
-        <option name="FOREGROUND" value="bd3918" />
+        <option name="FOREGROUND" value="bd7a42" />
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="MARKDOWN_EXPLICIT_LINK">
       <value>
-        <option name="FOREGROUND" value="9e28a0" />
+        <option name="FOREGROUND" value="976ca0" />
       </value>
     </option>
     <option name="MARKDOWN_ITALIC">
       <value>
-        <option name="FOREGROUND" value="bd3918" />
+        <option name="FOREGROUND" value="bd7a42" />
+        <option name="FONT_TYPE" value="2" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
@@ -740,7 +742,7 @@
     <option name="TYPO">
       <value>
         <option name="EFFECT_COLOR" value="861b1d" />
-        <option name="EFFECT_TYPE" value="2" />
+        <option name="EFFECT_TYPE" value="4" />
       </value>
     </option>
     <option name="UNMATCHED_BRACE_ATTRIBUTES">
